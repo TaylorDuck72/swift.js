@@ -28,7 +28,7 @@ And this is how, Swift.js is created.
 ## Usage Example
 ```js
 const Swifts = require("swifting.js");
-const Taylor = new Swifts("Taylor")
+const Taylor = new Swifts("Taylor");
 
 console.log("Taylor.Swift()");
 ```
