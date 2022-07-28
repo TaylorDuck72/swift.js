@@ -50,7 +50,7 @@ Our official website are still under working, this will be updated soon.
 If you have any question or problem, please don't hesitate adding me on Discord!    
 Personal Discord: **Tayy#1234**
 
-## Donate for support
+## Support us !
 
 Donation links will be updated soon as well.
 
