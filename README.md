@@ -2,7 +2,9 @@
  
  **This is not the programming language, Swift.**
 
-Swift.js (or Swifting.js for the package name) is a entertaining npm package for absolutely nothing use. Use can use this package for your discord bot fun command and just name the command to /swift or anything. 
+Swift.js (or Swifting.js for the package name) is an entertaining npm package for absolutely nothing use. Use can use this package for your discord bot fun command and just name the command to /swift or anything. 
+
+### Project discontinued, a 2.0 version is making in process.
 
 ## What is Swift.js for?
 
@@ -52,7 +54,7 @@ Personal Discord: **Tayy#1234**
 
 ## Support us !
 
-Donation links will be updated soon as well.
+Donation disabled
 
 
 
